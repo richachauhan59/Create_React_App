@@ -1,0 +1,370 @@
+[{
+        "name": "URL Breue Park",
+        "id": 1,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    },
+
+    {
+        "name": "Dominoes",
+        "id": 2,
+        "cuisine": [
+            "Chinese", "Continental", "Punjabi", "Italian"
+        ],
+        "costForTwo": 300,
+        "minOrder": 150,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": false
+        },
+        "rating": 3.3,
+        "votes": 500,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    },
+
+    {
+        "name": "Chirus",
+        "id": 3,
+        "cuisine": [
+            "Chinese", "Punjabi", "Italian"
+        ],
+        "costForTwo": 900,
+        "minOrder": 550,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 5,
+        "votes": 300,
+        "reviews": 4985,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    },
+
+    {
+        "name": "Chicken Swarma",
+        "id": 4,
+        "cuisine": [
+            "Chinese", "Punjabi", "Italian", "Thai"
+        ],
+        "costForTwo": 100,
+        "minOrder": 25,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": false,
+            "card": false
+        },
+        "rating": 2.5,
+        "votes": 300,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Uncle Sam's",
+        "id": 5,
+        "cuisine": [
+            "Chinese", "Punjabi", "Continental", "Thai"
+        ],
+        "costForTwo": 200,
+        "minOrder": 205,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": false,
+            "card": true
+        },
+        "rating": 3.5,
+        "votes": 300,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 6,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "DHABA",
+        "id": 7,
+        "cuisine": [
+            "Chinese", "Punjabi", "Continental", "Thai"
+        ],
+        "costForTwo": 550,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 1.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "waddakaam",
+        "id": 8,
+        "cuisine": [
+            "south Indian", "Punjabi", "Continental", "Thai"
+        ],
+        "costForTwo": 350,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": false,
+            "online": true,
+            "card": false
+        },
+        "rating": 3.5,
+        "votes": 500,
+        "reviews": 685,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 9,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": false,
+            "online": true,
+            "card": false
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 10,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 11,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 12,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "Punjabi Tadka",
+        "id": 13,
+        "cuisine": ["Punjabi"],
+        "costForTwo": 150,
+        "minOrder": 100,
+        "deliveryTime": 30,
+        "payment": {
+            "cash": true,
+            "online": true,
+            "card": true
+        },
+        "rating": 4.5,
+        "votes": 500,
+        "reviews": 85,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 14,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 15,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 16,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 17,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 18,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 19,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }, {
+        "name": "URL Breue Park",
+        "id": 20,
+        "cuisine": [
+            "continental", "Asian", "Pizza", "Deserts"
+        ],
+        "costForTwo": 500,
+        "minOrder": 50,
+        "deliveryTime": 30,
+        "payment": {
+            "cards": true,
+            "cash": false
+        },
+        "rating": 4.3,
+        "votes": 300,
+        "reviews": 445,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUxGkSwrcwdXeAt2IAK5YSlOQa3yTXBFbthQ&usqp=CAU"
+
+    }
+
+
+]

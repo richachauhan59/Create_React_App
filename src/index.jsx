@@ -5,12 +5,18 @@ import App from './App'
 import * as serviceWorker from './serviceWorker'
 import Main from './drawer/main'
 import ToolBar from './toolbar/toolbarMain'
+import Login from './ContextAPI/login'
+import Theame from './ContextAPI/theame'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-    <Main />
-    <ToolBar/>
+<Theame>
+    <Login>
+      <App />
+      <Main />
+      <ToolBar />
+    </Login>
+</Theame>
   </React.StrictMode>,
   document.getElementById('root')
 )
